@@ -1,0 +1,12 @@
+#tr a:link { COLOR:#0000ff; text-decoration: none}
+
+#tr a:visited { COLOR:#0000ff; text-decoration: none}
+
+#tr a:hover { COLOR: #ff0000; text-decoration : underline ;}
+
+#tr a:active { COLOR:#0000ff; text-decoration: none}
+
+
+#tr:HOVER {
+	background-color: #f4f3e8
+}

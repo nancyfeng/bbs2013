@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" 
+	"http://struts.apache.org/dtds/struts-2.1.dtd">
+
+<struts>
+
+	<constant name="struts.devMode" value="true" />
+
+
+	
+	<package name="user" extends="struts-default" namespace="/user">
+		<action name="*_*" class="com.gamebbs.action.{1}Action" method="{2}">		
+			<result name="{2}Fail">/user/{1}_{2}Fail.jsp</result>
+			<result name="{2}Success">/user/{1}_{2}Success.jsp</result>
+			<result name="{2}">/user/{1}_{2}.jsp</result>
+	 
+			
+		</action>
+	</package>
+
+	<package name="post" extends="struts-default" namespace="/post">
+		<action name="*_*" class="com.gamebbs.action.{1}Action" method="{2}">
+			<result name="{2}">/post/{1}_{2}.jsp</result>
+		</action>
+	</package>
+	
+	<package name="admin" extends="struts-default" namespace="/admin">
+		<action name="*_*" class="com.gamebbs.action.{1}Action" method="{2}">
+			<result name="{2}">/admin/{1}_{2}.jsp</result>
+		</action>
+	</package>
+
+</struts>
+	

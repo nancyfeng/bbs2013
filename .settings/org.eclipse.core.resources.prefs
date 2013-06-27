@@ -1,0 +1,27 @@
+#Wed Jan 04 15:43:47 CST 2012
+eclipse.preferences.version=1
+encoding//WebRoot/skin=UTF-8
+encoding//WebRoot/skin/css/base.css=UTF-8
+encoding//src/com/gamebbs/action/AdminAction.java=UTF-8
+encoding//src/com/gamebbs/action/PostAction.java=UTF-8
+encoding//src/com/gamebbs/action/UserAction.java=UTF-8
+encoding//src/com/gamebbs/dao/AdminDao.java=UTF-8
+encoding//src/com/gamebbs/dao/GroudDao.java=UTF-8
+encoding//src/com/gamebbs/dao/PostDao.java=UTF-8
+encoding//src/com/gamebbs/dao/UserDao.java=UTF-8
+encoding//src/com/gamebbs/dao/impl/AdminDaoImpl.java=UTF-8
+encoding//src/com/gamebbs/dao/impl/GroudDaoImpl.java=UTF-8
+encoding//src/com/gamebbs/dao/impl/PostDaoImpl.java=UTF-8
+encoding//src/com/gamebbs/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/com/gamebbs/model/User.java=UTF-8
+encoding//src/com/gamebbs/service/AdminService.java=UTF-8
+encoding//src/com/gamebbs/service/GroudService.java=UTF-8
+encoding//src/com/gamebbs/service/PostService.java=UTF-8
+encoding//src/com/gamebbs/service/UserService.java=UTF-8
+encoding//src/com/gamebbs/service/impl/AdminServiceImpl.java=UTF-8
+encoding//src/com/gamebbs/service/impl/GroudServiceImpl.java=UTF-8
+encoding//src/com/gamebbs/service/impl/PostServiceImpl.java=UTF-8
+encoding//src/com/gamebbs/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/com/gamebbs/vo/AdminInfo.java=UTF-8
+encoding//src/com/gamebbs/vo/PostInfo.java=UTF-8
+encoding//src/com/gamebbs/vo/UserInfo.java=UTF-8
